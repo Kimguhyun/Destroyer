@@ -1,0 +1,6 @@
+*.vsconfig
+*.sln
+Hunter/.vs/
+Hunter/Binaries/
+Hunter/Intermediate/
+Hunter/Saved/
